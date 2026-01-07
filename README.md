@@ -1,4 +1,5 @@
 Used url: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login 
+AI Assistance url: https://chatgpt.com/share/695e14da-d830-8010-a10f-ee54067ab6db
 
 📋 OrangeHRM Login Test Cases (Tabular Format)
 
